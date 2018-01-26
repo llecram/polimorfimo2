@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1516937808 source:d:\polimorfismo2\employeev2.cpp
+	<iostream>
+	"employee.h"
+
+1516937777 d:\polimorfismo2\employee.h
+	<string>
+
+1516938975 source:d:\polimorfismo2\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	"employee.h"
+	"employeev3.h"
+	"baseplusscomission.h"
+	"salariedemployee.h"
+
+1516938029 d:\polimorfismo2\employeev3.h
+	<string>
+	"employee.h"
+
+1516939440 d:\polimorfismo2\baseplusscomission.h
+	<string>
+	"employeev3.h"
+
+1516937960 d:\polimorfismo2\salariedemployee.h
+	<string>
+	"employee.h"
+
+1516897886 source:d:\polimorfismo2\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"salariedemployee.h"
+
